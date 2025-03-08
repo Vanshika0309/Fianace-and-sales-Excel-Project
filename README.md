@@ -3,6 +3,21 @@
 ## Overview
 This repository contains various sales and financial reports for AtliQ Hardware. The reports provide insights into net sales, market performance, profit and loss (P&L) statements, and product sales trends. These reports are useful for analyzing business performance across different years, markets, and product categories.
 
+## Tools Used
+- **Power BI**: For interactive visualizations and dashboards.
+- **Microsoft Excel**: Data preprocessing, calculations, and pivot tables.
+- **SQL**: Querying and managing large datasets.
+- **Python (pandas, matplotlib)**: Data transformation and analysis.
+
+## Functionalities
+- **Sales Analysis**: Understanding revenue trends across different years and markets.
+- **Profitability Insights**: Assessing Gross Margins, COGS, and Net Sales.
+- **Market Performance Evaluation**: Tracking sales against targets.
+- **Product Performance Tracking**: Identifying best and worst-performing products.
+- **Time-Based Comparisons**: Monthly, quarterly, and yearly comparisons for trend analysis.
+
+📄 [Download Full Report](sandbox:/mnt/dataAtliQ_Hardware_Reports.pdf)
+
 ## Reports Included
 
 ### 1. **Customer Net Sales Report**
@@ -38,6 +53,9 @@ This repository contains various sales and financial reports for AtliQ Hardware.
    - Includes quarterly and yearly comparisons to track growth.
 
    ![P&L by Months](images/P&L_Statement_by_Months_page_1.png)
+   ![P&L by Months](images/P&L_Statement_by_Months_page_2.png)
+   ![P&L by Months](images/P&L_Statement_by_Months_page_3.png)
+   ![P&L by Months](images/P&L_Statement_by_Months_page_4.png)
 
 ### 6. **Product Sales Report**
    - Details sales performance of individual products in 2020 and 2021.
@@ -46,6 +64,10 @@ This repository contains various sales and financial reports for AtliQ Hardware.
    - Lists division-wise growth and sales quantity breakdowns.
 
    ![Product Sales](images/pr_sol_page_1.png)
+   ![Product Sales](images/pr_sol_page_2.png)
+   ![Product Sales](images/pr_sol_page_3.png)
+   ![Product Sales](images/pr_sol_page_4.png)
+   ![Product Sales](images/pr_sol_page_5.png)
 
 ## Usage
 - These reports can be used to analyze business performance trends.

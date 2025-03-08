@@ -16,7 +16,7 @@ This repository contains various sales and financial reports for AtliQ Hardware.
 - **Product Performance Tracking**: Identifying best and worst-performing products.
 - **Time-Based Comparisons**: Monthly, quarterly, and yearly comparisons for trend analysis.
 
-📄 [Download Full Report](sandbox:/mnt/dataAtliQ_Hardware_Reports.pdf)
+📄 [Download Full Report](https://github.com/Vanshika0309/Fianace-and-sales-Excel-Project/blob/main/AtliQ_Hardware_Reports.pdf)
 
 ## Reports Included
 
